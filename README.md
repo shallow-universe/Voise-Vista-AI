@@ -28,13 +28,13 @@ Voise Vista.ai is an innovative application that leverages the power of Artifici
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Anant2003jain/Voise-Vista.ai.git
+   git clone https://github.com/shallow-universe/Voise-Vista-AI.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Voise-Vista.ai
+   cd Voise-Vista-AI
    ```
 
 3. **Create a virtual environment (recommended):**
@@ -120,4 +120,4 @@ This project is licensed under the MIT License.  See the [LICENSE](LICENSE) file
 ## Connect with Me  
 Feel free to star the repository and share your feedback!
 
-For updates, insights, or to connect, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/anant-jain-1720671a7).
+For updates, insights, or to connect, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/kripansh29).
